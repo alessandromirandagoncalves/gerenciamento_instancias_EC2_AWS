@@ -1,3 +1,6 @@
+<img src="./imagens/aws.jpeg" width="50%"/>
+
+
 # Gerenciamento instâncias EC2 AWS
 Resumo do aprendizado sobre AWS para apresentação na DIO
 
